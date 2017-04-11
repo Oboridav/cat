@@ -1,0 +1,192 @@
+    1  Start SSH agent ‘eval "$(ssh-agent -s)"
+    2  history
+    3  ls
+    4  pwd
+    5  echo "# cat" >> README.md
+    6  git init
+    7  git add README.md
+    8  git commit -m "first commit"
+    9  git remote add origin https://github.com/Oboridav/cat.git
+   10  git push -u origin master
+   11  echo "# cat" >> README.md
+   12  git init
+   13  git add README.md
+   14  git commit -m "first commit"
+   15  git remote add origin https://github.com/Oboridav/cat.git
+   16  git push -u origin master
+   17  git push -u origin master
+   18  history
+   19  ls
+   20  mkdir repoCat
+   21  ls
+   22  cd repoCat/
+   23  git add .
+   24  ls
+   25  vi ShortCat
+   26  nano ShortCat
+   27  git add .
+   28  git status
+   29  ls
+   30  git add .
+   31  git commit -m "First commit"
+   32  git commit -m "First commit"
+   33  git remote add origin https://github.com/Oboridav/cat/commits/master
+   34  git remote set-url origin https://github.com/Oboridav/cat/commits/master
+   35  git remote -v
+   36  git push origin master
+   37  git remote set-url origin https://github.com/Oboridav/cat
+   38  git push origin master
+   39  ls
+   40  rm ShortCat.txt 
+   41  ls
+   42  ls
+   43  cd ..
+   44  ls
+   45  cd E:\Git
+   46  ls
+   47  mkdir repoCat
+   48  ls
+   49  ls
+   50  cd repoCat/
+   51  ls
+   52  echo "# cat" >> README.md
+   53  git init
+   54  git add README.md
+   55  git commit -m "first commit"
+   56  git remote add origin https://github.com/Oboridav/cat.git
+   57  git push -u origin master
+   58  ls
+   59  git remote -v
+   60  git status
+   61  git add .
+   62  git commit -m "first commit"
+   63  git push -u origin master
+   64  git branch
+   65  git checkout -b b1
+   66  git checkout master
+   67  git commit -m "Stretched cat"
+   68  git push -u origin master
+   69  git add .
+   70  git commit -m "Stretched cat"
+   71  git push -u origin master
+   72  checkout b1
+   73  git checkout b1
+   74  ls
+   75  vi ShortCat.txt 
+   76  git checkout master 
+   77  vi ShortCat.txt 
+   78  git checkout b1
+   79  git branch
+   80  vi ShortCat.txt 
+   81  git add .
+   82  git commit -m "Stretched cat"
+   83  git commit -m "Ear catň"
+   84  git push -u origin b1
+   85  git checkout master
+   86  git merge b1 -m "merge"
+   87  git merge b1 -m "merge"
+   88  git add .
+   89  git commit -m "Short cat"
+   90  git push -u origin master
+   91  history>log
+   92  vi log
+   93  git init
+   94  git add .
+   95  git commit -m "first commit"
+   96  git remote add origin https://github.com/Oboridav/cat.git
+   97  git push -u origin master
+   98  git branch
+   99  git checkout -b b1
+  100  git checkout master
+  101  git commit -m "Stretched cat"
+  102  git push -u origin master
+  103  git add .
+  104  git commit -m "Stretched cat"
+  105  git push -u origin master
+  106  checkout b1
+  107  git checkout b1
+  108  git checkou
+  109  git checkout
+  110  git add .
+  111  git add .
+  112  ls
+  113  vi ShortCat.txt 
+  114  git checkout master 
+  115  git add .
+  116  git commit -m "Ear cat"
+  117  git push -u origin b1
+  118  git checkout master
+  119  git merge b1 -m "merge"
+  120  git checkout b1
+  121  git merge b1 -m "merge"
+  122  git status
+  123  git merge --abort
+  124  git checkout b1
+  125  git add .
+  126  git status
+  127  git add .ň
+  128  git add .
+  129  git status
+  130  git commit -m "Ear cat"
+  131  git push -u origin b1
+  132  git checkout master 
+  133  git merge b1 -m "merge"
+  134  vi ShortCat.txt 
+  135  git merge b1 -m "merge"
+  136  vi ShortCat.txt 
+  137  git merge --abort
+  138  vi ShortCat.txt 
+  139  git merge b1 -m "merge"
+  140  git add .
+  141  git commit -m "Stretched cat"
+  142  git push -u origin master
+  143  git merge b1 -m "merge"
+  144  git merge --abort
+  145  vi ShortCat.txt
+  146  git checkout b1
+  147  vi ShortCat.txt 
+  148  git checkout master 
+  149  git merge b1 -m "merge"
+  150  vi ShortCat.txt 
+  151  vi ShortCat.txt 
+  152  git merge b1 -m "merge"
+  153  vi ShortCat.txt 
+  154  git merge b1 -m "merge"
+  155  vi ShortCat.txt 
+  156  git merge --abort
+  157  git add .
+  158  git commit -m "Stretched cat"
+  159  git push -u origin master
+  160  git checkout b1
+  161  git add .
+  162  git commit -m "Ear cat"
+  163  git push -u origin b1
+  164  git checkout master 
+  165  git merge b1 -m "merge"
+  166  vi ShortCat.txt 
+  167  git merge b1 -m "merge"
+  168  git add.
+  169  git add .
+  170  git merge b1 -m "merge"
+  171  git commit origin master  git commit -m "ASCCI ART PROBLEM"
+  172  git push -u origin master
+  173  vi ShortCat.txt 
+  174  git merge b1 -m "merge"
+  175  git merge --abort
+  176  git merge b1 -m "merge"--abort
+  177  git merge --abort
+  178  ls
+  179  vi ShortCat.txt 
+  180  git add .
+  181  git commit -m "ASCCI ART PROBLEM"
+  182  git push -u origin master
+  183  git merge b1 -m "merge"
+  184  vi ShortCat.txt 
+  185  vi ShortCat.txt 
+  186  git add .
+  187  git commit -m "Resolved merge conflict"
+  188  vi ShortCat.txt 
+  189  git add .
+  190  git commit -m "ASCCI ART PROBLEM"
+  191  git push -u origin master
+  192  history>log.log
